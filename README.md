@@ -1,2 +1,33 @@
-# ai-prompt-library
-500+ AI Business Prompts - Premium Collection
+# AI Prompt Library — 500+ Battle-Tested Prompts
+
+> Stop starting from scratch. Start every task with a prompt that works.
+
+This repository accompanies the **AI Business Prompt Library** — 500+ production-ready prompts for professionals, entrepreneurs, and developers.
+
+## Free Samples (65 prompts, 10 categories)
+
+Browse [PROMPTS.md](./PROMPTS.md) for free samples covering:
+
+- Business Strategy, Writing & Editing, Coding & Development
+- Freelancing, Marketing & Sales, Project Management
+- Design & UX, Research, Productivity, Operations
+
+## Get the Full Library
+
+| Product | What You Get | Price |
+|---------|-------------|-------|
+| [500+ AI Business Prompts](https://toshleonard.gumroad.com/l/rzenot) | Complete library across all categories | $27 |
+| [ChatGPT Prompts for Developers](https://toshleonard.gumroad.com/l/ekrbqu) | 200 code-ready prompts for engineers | $19 |
+| [AI Freelancer Income Blueprint](https://toshleonard.gumroad.com/l/ijhbmk) | Prompts + playbook to earn $5k/month | $47 |
+| [AI Agency Starter Kit](https://toshleonard.gumroad.com/l/mtgqp) | Full toolkit to launch an AI agency | $97 |
+
+## Why Specific Prompts Beat Generic Ones
+
+**Generic:** "Write me a cover letter"
+
+**This library:** "You are a senior hiring manager at [company]. Write a cover letter for [role] that addresses their pain points around [X]. Avoid buzzwords. Lead with measurable results. Under 300 words."
+
+Every prompt includes role context, negative constraints, and structured output format.
+
+---
+[Browse free prompts](./PROMPTS.md) | [Get the full pack ($27)](https://toshleonard.gumroad.com/l/rzenot)
