@@ -20,6 +20,23 @@ Browse [PROMPTS.md](./PROMPTS.md) for free samples covering:
 | [ChatGPT Prompts for Developers](https://toshleonard.gumroad.com/l/ekrbqu) | 200 code-ready prompts for engineers | $19 |
 | [AI Freelancer Income Blueprint](https://toshleonard.gumroad.com/l/ijhbmk) | Prompts + playbook to earn $5k/month | $47 |
 | [AI Agency Starter Kit](https://toshleonard.gumroad.com/l/mtgqp) | Full toolkit to launch an AI agency | $97 |
+| [AI Revenue Bot Template](https://toshleonard.gumroad.com/l/pdebbn) | Complete autonomous agent config files | $97 |
+
+## Prompts for Every Profession
+
+ChatGPT prompt guides for 50+ professional niches:
+
+**Healthcare & Clinical:** Doctors, Nurses, Dentists, Physical Therapists, Occupational Therapists, Speech-Language Pathologists, Chiropractors, Nutritionists, Social Workers
+
+**Legal & Finance:** Lawyers, Financial Planners, Insurance Agents, Accountants
+
+**Education:** Teachers, School Counselors, Professors, Corporate Trainers
+
+**Business & Operations:** HR Managers, Supply Chain Managers, Project Managers, Operations Directors
+
+**Creative & Service:** Photographers, Interior Designers, Event Planners, Architects
+
+**And many more** — find all guides at [dev.to/tosh2308](https://dev.to/tosh2308)
 
 ## Why Specific Prompts Beat Generic Ones
 
