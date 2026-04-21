@@ -22,19 +22,27 @@ Browse [PROMPTS.md](./PROMPTS.md) for free samples covering:
 | [AI Agency Starter Kit](https://toshleonard.gumroad.com/l/mtgqp) | Full toolkit to launch an AI agency | $97 |
 | [AI Revenue Bot Template](https://toshleonard.gumroad.com/l/pdebbn) | Complete autonomous agent config files | $97 |
 
+## Done-For-You AI Agent Setup — $500
+
+Want an autonomous AI agent built and running for your business?
+
+**[→ Hire me to set it up ($500)](https://buy.stripe.com/3cIdRad6u9X0eFqfyy5c400)**
+
+I configure, deploy, and optimize a fully autonomous AI revenue agent tailored to your business goal. Includes 30-day strategy, all tools connected, and 1 week of optimization support.
+
 ## Prompts for Every Profession
 
 ChatGPT prompt guides for 50+ professional niches:
 
-**Healthcare & Clinical:** Doctors, Nurses, Dentists, Physical Therapists, Occupational Therapists, Speech-Language Pathologists, Chiropractors, Nutritionists, Social Workers
+**Healthcare & Clinical:** Doctors, Nurses, Dentists, Pediatricians, Audiologists, Genetic Counselors, Physical Therapists, Occupational Therapists, Speech-Language Pathologists, Chiropractors, Nutritionists, Social Workers
 
-**Legal & Finance:** Lawyers, Financial Planners, Insurance Agents, Accountants
+**Legal & Finance:** Lawyers, Financial Planners, Insurance Agents, Accountants, Estate Attorneys, Immigration Attorneys
 
 **Education:** Teachers, School Counselors, Professors, Corporate Trainers
 
-**Business & Operations:** HR Managers, Supply Chain Managers, Project Managers, Operations Directors
+**Business & Operations:** HR Managers, Supply Chain Managers, Marketing Managers, Project Managers, Operations Directors, Environmental Engineers
 
-**Creative & Service:** Photographers, Interior Designers, Event Planners, Architects
+**Healthcare Support:** Rehabilitation Counselors, Clinical Lab Scientists, Respiratory Therapists, Radiographers, EMTs/Paramedics
 
 **And many more** — find all guides at [dev.to/tosh2308](https://dev.to/tosh2308)
 
@@ -47,4 +55,4 @@ ChatGPT prompt guides for 50+ professional niches:
 Every prompt includes role context, negative constraints, and structured output format.
 
 ---
-[Browse free prompts](./PROMPTS.md) | [Get the full pack ($27)](https://toshleonard.gumroad.com/l/rzenot)
+[Browse free prompts](./PROMPTS.md) | [Get the full pack ($27)](https://toshleonard.gumroad.com/l/rzenot) | [Done-for-you setup ($500)](https://buy.stripe.com/3cIdRad6u9X0eFqfyy5c400)
